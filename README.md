@@ -1,12 +1,14 @@
-</b>Pizza Sales Analysis</b>
+# Pizza Sales Analysis
 
 Background and Overview
    
 In today’s competitive food and beverage market, understanding product-level and category-level performance is key to driving revenue and customer loyalty.
+
 This project focuses on analyzing a pizza restaurant's sales data to identify top-selling products, seasonal patterns, and opportunities for strategic growth.
 
 Objective:
 Transform raw sales data into actionable business insights
+
 Enable data-driven decision-making f.or marketing, inventory, and product development
 
 Data Structure Overview
