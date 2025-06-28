@@ -21,7 +21,7 @@ The dataset includes transactional sales records with the following key fields:
 - `Pizza_size`: Size of the pizza.
 - `Quantity`: Number of pizzas ordered.
 - `total_price`: Price per pizza.
-- `pizza_category`: varities of pizza.
+- `pizza_category`: Different Categories of Pizza
 - `Order_time`: Timestamp indicating the time of the order.
 
 This data structure allows for both granular item-level analysis and higher-level performance aggregation.
@@ -63,15 +63,15 @@ Chicken pizzas performed strongly, suggesting further investment in related prod
 
 Veggie categories underperformed but showed loyal niche segments.
 
- <img align="center" alt="zerotwo-pic" height="450" style="border-radius:60px;" src="">
+ <img align="center" alt="zerotwo-pic" height="450" style="border-radius:60px;" src="https://github.com/Naveena-1213/pizza-sales-analysis/blob/main/%25%20of%20Sales%20by%20Pizza%20Category.png">
 
 ### * KPI Highlights
 
-* Total Orders: ~21,000
+* Total Orders: ~21,350
 
-* Total Revenue: ~$817,000
+* Total Revenue: ~$817,860.05
 
-* Average Order Value: ~$38
+* Average Order Value: ~$38.31
 
  <img align="center" alt="zerotwo-pic" height="450" style="border-radius:60px;" src="https://github.com/Naveena-1213/pizza-sales-analysis/blob/main/Dashboard%201.png">
 
