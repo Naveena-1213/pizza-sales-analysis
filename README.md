@@ -48,7 +48,7 @@ Classic pizza variants dominated this segment, indicating strong brand loyalty.
 
 ### * Seasonal Trends
 
-Clear spikes in sales during weekends and holiday months (e.g., December).
+Clear spikes in sales during weekends and monsoon season (e.g July).
 
 Opportunity for targeted marketing campaigns during these peak periods.
 
