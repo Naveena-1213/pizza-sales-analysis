@@ -46,7 +46,7 @@ The top 5 pizzas alone accounted for nearly 30% of total revenue.
 
 Classic pizza variants dominated this segment, indicating strong brand loyalty.
 
- <img align="center" alt="zerotwo-pic" height="450" style="border-radius:60px;" src="">
+ <img align="center" alt="zerotwo-pic" height="450" style="border-radius:60px;" src="https://github.com/Naveena-1213/pizza-sales-analysis/blob/main/Total_sold_by_category.png">
 
 ### * Seasonal Trends
 
@@ -54,7 +54,8 @@ Clear spikes in sales during weekends and monsoon season (e.g July).
 
 Opportunity for targeted marketing campaigns during these peak periods.
 
- <img align="center" alt="zerotwo-pic" height="450" style="border-radius:60px;" src="">
+ <img align="center" alt="zerotwo-pic" height="450" style="border-radius:60px;" src="https://github.com/Naveena-1213/pizza-sales-analysis/blob/main/Month_Trends.png">
+  <img align="center" alt="zerotwo-pic" height="450" style="border-radius:60px;" src="https://github.com/Naveena-1213/pizza-sales-analysis/blob/main/Total_Pizza_Sales_by%20_WeekDays.png">
 
 ### * Category Analysis
 
@@ -72,7 +73,7 @@ Veggie categories underperformed but showed loyal niche segments.
 
 * Average Order Value: ~$38
 
- <img align="center" alt="zerotwo-pic" height="450" style="border-radius:60px;" src="">
+ <img align="center" alt="zerotwo-pic" height="450" style="border-radius:60px;" src="https://github.com/Naveena-1213/pizza-sales-analysis/blob/main/Dashboard%201.png">
 
 ## Recommendations
 * Focus Promotions on Top Performers: Increase advertising spend and bundling options for the top 5 pizzas to drive volume.
