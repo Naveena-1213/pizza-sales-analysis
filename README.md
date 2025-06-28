@@ -13,13 +13,13 @@ Enable data-driven decision-making f.or marketing, inventory, and product develo
 The dataset includes transactional sales records with the following key fields:
 
 `order_id`: Unique identifier for each order.
-`order_date`: Date of purchase.
-`pizza_id`: Unique identifier for each pizza.
-`pizza_name`: Name of the pizza.
-`pizza_category`: Category (e.g., Classic, Veggie, Chicken).
-`pizza_size`: Size of the pizza (S, M, L, XL, XXL).
-`quantity`: Number of pizzas sold per order.
-`total_price`: Revenue from each order line.
+-`order_date`: Date of purchase.
+-`pizza_id`: Unique identifier for each pizza.
+-`pizza_name`: Name of the pizza.
+-`pizza_category`: Category (e.g., Classic, Veggie, Chicken).
+-`pizza_size`: Size of the pizza (S, M, L, XL, XXL).
+-`quantity`: Number of pizzas sold per order.
+-`total_price`: Revenue from each order line.
 
 This data structure allows for both granular item-level analysis and higher-level performance aggregation.
 
