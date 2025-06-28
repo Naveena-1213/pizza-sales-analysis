@@ -46,17 +46,23 @@ The top 5 pizzas alone accounted for nearly 30% of total revenue.
 
 Classic pizza variants dominated this segment, indicating strong brand loyalty.
 
+ <img align="center" alt="zerotwo-pic" height="450" style="border-radius:60px;" src="">
+
 ### * Seasonal Trends
 
 Clear spikes in sales during weekends and monsoon season (e.g July).
 
 Opportunity for targeted marketing campaigns during these peak periods.
 
+ <img align="center" alt="zerotwo-pic" height="450" style="border-radius:60px;" src="">
+
 ### * Category Analysis
 
 Chicken pizzas performed strongly, suggesting further investment in related product innovation.
 
 Veggie categories underperformed but showed loyal niche segments.
+
+ <img align="center" alt="zerotwo-pic" height="450" style="border-radius:60px;" src="">
 
 ### * KPI Highlights
 
@@ -65,6 +71,8 @@ Veggie categories underperformed but showed loyal niche segments.
 * Total Revenue: ~$817,000
 
 * Average Order Value: ~$38
+
+ <img align="center" alt="zerotwo-pic" height="450" style="border-radius:60px;" src="">
 
 ## Recommendations
 * Focus Promotions on Top Performers: Increase advertising spend and bundling options for the top 5 pizzas to drive volume.
