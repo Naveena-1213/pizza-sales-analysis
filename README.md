@@ -1,17 +1,17 @@
 # Pizza Sales Analysis
 
-Background and Overview
+##Background and Overview
    
 In today’s competitive food and beverage market, understanding product-level and category-level performance is key to driving revenue and customer loyalty.
 
 This project focuses on analyzing a pizza restaurant's sales data to identify top-selling products, seasonal patterns, and opportunities for strategic growth.
 
-Objective:
+###Objective:
 Transform raw sales data into actionable business insights
 
 Enable data-driven decision-making f.or marketing, inventory, and product development
 
-Data Structure Overview
+##Data Structure Overview
 The dataset includes transactional sales records with the following key fields:
 
 `order_id`: Unique identifier for each order.
@@ -25,30 +25,44 @@ The dataset includes transactional sales records with the following key fields:
 
 This data structure allows for both granular item-level analysis and higher-level performance aggregation.
 
-Executive Summary
+##Executive Summary
 
- After analyzing the pizza sales data using SQL, Python, and Power BI, key business insights were identified.\n
- Revenue Drivers: A small group of pizzas (top 5) generated a significant portion of overall revenue.\n
- Seasonality & Trends: Certain months and days consistently showed higher sales, highlighting opportunities for targeted promotions.\n
- Catgory Performance: Classic and Chicken pizzas contributed the most to revenue, while Veggie pizzas showed potential for upselling strategies.\n
- Order Value Optimization: Opportunities were found to increase average order value through cross-selling and upsizing promotions.
+After analyzing the pizza sales data using SQL, Python, and Power BI, key business insights were identified.
 
-4) Insight Deep Dive
-Top Pizzas
+Revenue Drivers: A small group of pizzas (top 5) generated a significant portion of overall revenue.
+
+Seasonality & Trends: Certain months and days consistently showed higher sales, highlighting opportunities for targeted promotions.
+ 
+Catgory Performance: Classic and Chicken pizzas contributed the most to revenue, while Veggie pizzas showed potential for upselling strategies.
+
+Order Value Optimization: Opportunities were found to increase average order value through cross-selling and upsizing promotions.
+
+##Insight Deep Dive
+
+###Top Pizzas
+
 The top 5 pizzas alone accounted for nearly 30% of total revenue.
+
 Classic pizza variants dominated this segment, indicating strong brand loyalty.
 
-Seasonal Trends
+###Seasonal Trends
+
 Clear spikes in sales during weekends and holiday months (e.g., December).
+
 Opportunity for targeted marketing campaigns during these peak periods.
 
-Category Analysis
+###Category Analysis
+
 Chicken pizzas performed strongly, suggesting further investment in related product innovation.
+
 Veggie categories underperformed but showed loyal niche segments.
 
-KPI Highlights
+###KPI Highlights
+
 Total Orders: ~21,000
+
 Total Revenue: ~$817,000
+
 Average Order Value: ~$38
 
 5) Recommendations
