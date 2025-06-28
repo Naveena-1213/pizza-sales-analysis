@@ -1,6 +1,6 @@
- Pizza Sales Analysis
- 
-1) Background and Overview
+</b>Pizza Sales Analysis</b>
+
+Background and Overview
    
 In today’s competitive food and beverage market, understanding product-level and category-level performance is key to driving revenue and customer loyalty.
 This project focuses on analyzing a pizza restaurant's sales data to identify top-selling products, seasonal patterns, and opportunities for strategic growth.
@@ -9,7 +9,7 @@ Objective:
 Transform raw sales data into actionable business insights
 Enable data-driven decision-making f.or marketing, inventory, and product development
 
-2) Data Structure Overview
+Data Structure Overview
 The dataset includes transactional sales records with the following key fields:
 
 `order_id`: Unique identifier for each order.
@@ -23,13 +23,13 @@ The dataset includes transactional sales records with the following key fields:
 
 This data structure allows for both granular item-level analysis and higher-level performance aggregation.
 
-3) Executive Summary
+Executive Summary
 
-After analyzing the pizza sales data using SQL, Python, and Power BI, key business insights were identified:
-Revenue Drivers: A small group of pizzas (top 5) generated a significant portion of overall revenue.
-Seasonality & Trends: Certain months and days consistently showed higher sales, highlighting opportunities for targeted promotions.
-Catgory Performance: Classic and Chicken pizzas contributed the most to revenue, while Veggie pizzas showed potential for upselling strategies.
-Order Value Optimization: Opportunities were found to increase average order value through cross-selling and upsizing promotions.
+ After analyzing the pizza sales data using SQL, Python, and Power BI, key business insights were identified.\n
+ Revenue Drivers: A small group of pizzas (top 5) generated a significant portion of overall revenue.\n
+ Seasonality & Trends: Certain months and days consistently showed higher sales, highlighting opportunities for targeted promotions.\n
+ Catgory Performance: Classic and Chicken pizzas contributed the most to revenue, while Veggie pizzas showed potential for upselling strategies.\n
+ Order Value Optimization: Opportunities were found to increase average order value through cross-selling and upsizing promotions.
 
 4) Insight Deep Dive
 Top Pizzas
