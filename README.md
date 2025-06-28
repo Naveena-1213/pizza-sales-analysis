@@ -32,3 +32,23 @@ Key outcomes include:
 Identifying best-selling products to guide marketing and promotions
 Understanding category performance for inventory and supply planning
 Supporting strategic pricing and product mix decisions
+
+📁 Repository Structure
+pizza-sales-analysis/
+├── SQL/           # SQL scripts for data extraction and KPI analysis
+├── Python/        # Jupyter notebooks and scripts for EDA and visuals
+├── PowerBI/       # Power BI files and screenshots
+├── images/        # Sample visuals and dashboard snapshots
+└── README.md
+
+🌟 Key Takeaways
+Strengthened end-to-end data analysis and business storytelling skills
+Practiced integrating multiple tools to build a cohesive business case
+Showcased the power of data-driven decisions to increase growth and efficiency
+
+🤝 Let's Connect
+I'm passionate about using data to drive business growth and tell impactful stories.
+📩 Connect with me on LinkedIn — let’s collaborate, discuss ideas, or exchange feedback!
+
+📄 License
+This project is open for learning and inspiration purposes. Feel free to explore and adapt!
