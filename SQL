@@ -9,4 +9,4 @@ GROUP BY pizza_name
 ORDER BY total_revenue DESC
 LIMIT 5;
 
--- Screenshot: images/sql_top_pizzas_result.png
+<img align="center" alt="zerotwo-pic" height="450" style="border-radius:60px;" src=" https://github.com/Naveena-1213/pizza-sales-analysis/blob/main/Total_sold_by_category.png">:
