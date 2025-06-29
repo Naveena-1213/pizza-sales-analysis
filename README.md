@@ -9,7 +9,7 @@ This project focuses on analyzing a pizza restaurant's sales data to identify to
 ### Objective:
 Transform raw sales data into actionable business insights
 
-Enable data-driven decision-making f.or marketing, inventory, and product development
+Enable data-driven decision-making for marketing, inventory, and product development
 
 ## Data Structure Overview
 The dataset includes transactional sales records with the following key fields:
@@ -34,7 +34,7 @@ After analyzing the pizza sales data using SQL, Python, and Power BI, key busine
 
 * Seasonality & Trends: Certain months and days consistently showed higher sales, highlighting opportunities for targeted promotions.
  
-* Catgory Performance: Classic and Chicken pizzas contributed the most to revenue, while Veggie pizzas showed potential for upselling strategies.
+* Category Performance: Classic and Supreme pizzas contributed the most to revenue, while Veggie and chicken pizzas showed potential for upselling strategies.
 
 * Order Value Optimization: Opportunities were found to increase average order value through cross-selling and upsizing promotions.
 
