@@ -42,11 +42,14 @@ After analyzing the pizza sales data using SQL, Python, and Power BI, key busine
 
 ### * Top Pizzas
 
-The top 5 pizzas alone accounted for nearly 30% of total revenue.
+The top 5 pizzas alone accounted for nearly 25% of total revenue.
+
+ <img align="center" alt="zerotwo-pic" height="450" style="border-radius:60px;" src="https://github.com/Naveena-1213/pizza-sales-analysis/blob/main/Top%205%20Pizza%20in%20%25.png">
+
 
 Classic pizza variants dominated this segment, indicating strong brand loyalty.
 
- <img align="center" alt="zerotwo-pic" height="450" style="border-radius:60px;" src="https://github.com/Naveena-1213/pizza-sales-analysis/blob/main/Total_sold_by_category.png">
+ <img align="center" alt="zerotwo-pic" height="450" style="border-radius:60px;" src="https://github.com/Naveena-1213/pizza-sales-analysis/blob/main/%25_of_Sales_by_Category_SQL.png">
 
 ### * Seasonal Trends
 
@@ -57,13 +60,13 @@ Opportunity for targeted marketing campaigns during these peak periods.
  <img align="center" alt="zerotwo-pic" height="450" style="border-radius:60px;" src="https://github.com/Naveena-1213/pizza-sales-analysis/blob/main/Month_Trends.png">
   <img align="center" alt="zerotwo-pic" height="450" style="border-radius:60px;" src="https://github.com/Naveena-1213/pizza-sales-analysis/blob/main/Total_Pizza_Sales_by%20_WeekDays.png">
 
-### * Category Analysis
+### * Size Analysis
 
-Chicken pizzas performed strongly, suggesting further investment in related product innovation.
+L & M -Size pizzas performed strongly, suggesting further investment in related product innovation.
 
-Veggie categories underperformed but showed loyal niche segments.
+XL and XXL have underperformed and thus need less attention. 
 
- <img align="center" alt="zerotwo-pic" height="450" style="border-radius:60px;" src="https://github.com/Naveena-1213/pizza-sales-analysis/blob/main/%25%20of%20Sales%20by%20Pizza%20Category.png">
+ <img align="center" alt="zerotwo-pic" height="450" style="border-radius:60px;" src="https://github.com/Naveena-1213/pizza-sales-analysis/blob/main/%25%20of%20Sales%20by%20Pizza%20Size.png">
 
 ### * KPI Highlights
 
@@ -76,15 +79,18 @@ Veggie categories underperformed but showed loyal niche segments.
  <img align="center" alt="zerotwo-pic" height="450" style="border-radius:60px;" src="https://github.com/Naveena-1213/pizza-sales-analysis/blob/main/Dashboard%201.png">
 
 ## Recommendations
-* Focus Promotions on Top Performers: Increase advertising spend and bundling options for the top 5 pizzas to drive volume.
+* Friday has the highest orders – so start giving good offers from Thursday evening itself.
 
-* Leverage Seasonality: Run limited-time offers during high-sales months to boost revenue further.
+* Classic and Supreme pizzas are top revenue makers – you can mix them with low-selling pizzas (like chicken and veggies) in a combo to push both.
 
-* Upselling Strategies: Encourage upsizing and cross-selling (e.g., sides, beverages) to increase average order value.
+* Large-size pizzas bring 46% of total revenue – give small discounts to move customers from Medium to Large.
 
-* Explore Veggie Growth: Develop new veggie-based pizzas and explore targeted marketing to grow this segment.
+* In September, sales are very low – so try launching limited-time special pizzas or seasonal offers only for that month to attract more customers.
 
-* Optimize Inventory: Align inventory planning with identified seasonal and category trends to reduce waste and improve profitability.
+* From 11 AM to 2 PM and again from 4 PM to 8 PM, orders are going high – so we can run ads and promotions from 10:30 AM and again from 4 PM to catch more buyers.
+
+* Till July, the business is going great. But from August onwards, sales drop sharply – maybe because of the rainy season and people not stepping out.
+  If we partner with strong home delivery services, we can boost sales even during rainy months when footfall is low.
 
 ## Tools Used
 
