@@ -77,6 +77,8 @@ XL and XXL have underperformed and thus need less attention.
 * Average Order Value: ~$38.31
 
  <img align="center" alt="zerotwo-pic" height="450" style="border-radius:60px;" src="https://github.com/Naveena-1213/pizza-sales-analysis/blob/main/Dashboard%201.png">
+  <img align="center" alt="zerotwo-pic" height="450" style="border-radius:60px;" src="https://github.com/Naveena-1213/pizza-sales-analysis/blob/main/Dashboard%202.png">
+
 
 ## Recommendations
 * Friday has the highest orders – so start giving good offers from Thursday evening itself.
