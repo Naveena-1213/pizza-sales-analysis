@@ -6,7 +6,7 @@ In today’s competitive food and beverage market, understanding product-level a
 
 This project focuses on analyzing a pizza restaurant's sales data to identify top-selling products, seasonal patterns, and opportunities for strategic growth.
 
-### Objective:
+### Objective
 Transform raw sales data into actionable business insights
 
 Enable data-driven decision-making for marketing, inventory, and product development
